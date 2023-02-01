@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @LuisLlerenas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LuisLlerenas/LuisLlerenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello and welcome to my GitHub profile! 
+I am a driven software engineering student with a passion for web application development 👨🏽‍💻 
+Skilled in React and TypeScript , I am always eager to tackle new challenges and expand my knowledge in the field. 
+I believe in hard work and dedication to deliver high-quality results. I am excited to explore opportunities in software engineering and grow as a professional. 
+Let's build something great together 🔥
